@@ -2,6 +2,16 @@
 
 This project contains demonstrators and references to general container (non-Docker) technologies.
 
+## Concept
+
+Containers are technologies that allow the packaging and isolation of applications with their entire runtime environment—all of the files necessary to run[1](https://www.redhat.com/en/topics/containers).
+
+<u>Virtualisations versus containers</u>
+
+![vm vs containers](./docs/image/vm-vs-containers.png)
+
+Please refer to [Containerization vs. Virtualization : understand the differences](https://ubuntu.com/blog/containerization-vs-virtualization) by Miona Aleksic
+
 ## Disclaimer
 
 * The content of this project are intended for educational purpose only.
