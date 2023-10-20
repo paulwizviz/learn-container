@@ -19,7 +19,7 @@ Please refer to [Containerization vs. Virtualization : understand the difference
 
 ## Copyright
 
-Unless otherwise specificed, the copyright in this project are assigned as follows.
+Unless otherwise specified, the copyright in this project are assigned as follows.
 
 Copyright 2023 Paul Sitoh
 
